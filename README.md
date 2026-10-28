@@ -14,7 +14,7 @@ This project manages a dynamic collection of packages, automatically maintaining
 
 ## Quick Start Example
 
-```python
+```python 
 from container import Container
 
 # Initialize the container
